@@ -1,1 +1,3 @@
 This is a very simple text file
+this is a second line added by opening with xdg-open in terminal dated 15/01/2021
+We will attempt to push to github.
